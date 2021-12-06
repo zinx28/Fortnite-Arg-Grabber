@@ -1,6 +1,8 @@
 # args grabber
 This grabs the newest fltoken/caldera + other args
 <br><br>
+The FortniteClient-Win64-Shipping_BE and FortniteClient-Win64-Shipping_BE are in win64 if you can't find it
+<br>
 Make a folder put your current FortniteClient-Win64-Shipping_BE and FortniteClient-Win64-Shipping_BE in
 <br>
 now replace your fortnite files with the arg grabber (not the one you put in the folder whats step 1.)

@@ -1,10 +1,8 @@
-# fltoken-grabber
-This grabs the newest fltoken
+# args grabber
+This grabs the newest fltoken/caldera + other args
+<br><br>
+Make a folder put your current FortniteClient-Win64-Shipping_BE and FortniteClient-Win64-Shipping_BE in
 <br>
-Not Hard to use put files in win64 whats in fortnite files
-
-PATCHED ON LATEST?????
+now replace your fortnite files with the arg grabber (not the one you put in the folder whats step 1.)
 <br><br>
-Just Replace FortniteClient-Win64-Shipping_BE for other type of args
-<br><br>
-then launch fortnite from fortnitelauncher.exe then it should give the fltoken in the console and files in args.txt
+then launch fortnite from FortniteClient-Win64-Shipping.exe then it should give the fltoken in the console and files in args.txt

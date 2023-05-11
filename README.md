@@ -1,4 +1,4 @@
-# Fortnite Arg grabber
+# Fortnite Arg grabber [ARCHIVED]
 This grabs the newest fltoken/caldera and also all other args
 <br><br>
 You can see the args I grabbed [here](https://github.com/zinx-YT/Fortnite-Fltokens-and-offsets/tree/main/Fltokens)
